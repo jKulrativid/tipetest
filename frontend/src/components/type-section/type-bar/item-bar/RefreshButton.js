@@ -1,3 +1,3 @@
 export default function RefreshButton() {
-	return <div></div>
+	return <button>refresh</button>
 }

@@ -1,4 +1,4 @@
-import { TypeSection } from "../components/typesection/index";
+import { TypeSection } from "../components/type-section/index";
 
 export default function MainPage() {
   return (
